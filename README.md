@@ -1,6 +1,6 @@
 # [Full Discography](https://qiplex.com/software/full-discography/)
 
-### Discover all releases of the artists you love!
+### Discover ALL releases of the artists you love!
 
 ### More info https://qiplex.com/software/full-discography/
 
