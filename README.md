@@ -2,7 +2,7 @@
 
 ### Discover ALL releases of the artists you love!
 
-### More info https://qiplex.com/software/full-discography/
+### Get the app here → https://qiplex.com/software/full-discography/
 
 ![Full Discography](http://qiplex.com/img/full-discography-app.png)
 
